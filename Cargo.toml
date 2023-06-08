@@ -1,0 +1,9 @@
+[package]
+name = "utils-rs"
+version = "0.0.1"
+authors = ["funh2029 <funh2029@outlook.com>"]
+description = "Some utils for me."
+repository = "https://github.com/funh2029/utils-rs"
+license-file = "LICENSE"
+
+[dependencies]
